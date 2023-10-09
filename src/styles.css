@@ -1,0 +1,47 @@
+/* Custom CSS styles */
+/* Change button colors and text color */
+.btn {
+    background-color: #f0f0f0;
+    color: #000;
+}
+
+/* Style the "=" button with a green background */
+.btn-equal {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Style the "sin" button with a blue background */
+.btn-sin {
+    background-color: #007BFF;
+    color: white;
+}
+
+/* Style the "ln" button with a purple background */
+.btn-ln {
+    background-color: #800080;
+    color: white;
+}
+
+/* Style the "π" button with an orange background */
+.btn-pi {
+    background-color: #FFA500;
+    color: white;
+}
+
+/* Style the "cos" button with a teal background */
+.btn-cos {
+    background-color: #008080;
+    color: white;
+}
+
+/* Add more custom styles as needed */
+
+/* Style the display input field */
+#calc-display {
+    font-size: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: right;
+}
