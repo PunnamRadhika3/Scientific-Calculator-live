@@ -1,7 +1,7 @@
 /* Custom CSS styles */
 /* Change button colors and text color */
 .btn {
-    background-color: #f0f0f0;
+    background-color: #cdc2c2;
     color: #000;
 }
 
@@ -20,13 +20,13 @@
 /* Style the "ln" button with a purple background */
 .btn-ln {
     background-color: #800080;
-    color: white;
+    color: rgb(139, 130, 130);
 }
 
 /* Style the "π" button with an orange background */
 .btn-pi {
     background-color: #FFA500;
-    color: white;
+    color: rgb(237, 125, 125);
 }
 
 /* Style the "cos" button with a teal background */
